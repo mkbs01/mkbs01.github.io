@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
-include: [".well-known"]
+include: [
+".well-known",
+"pl",
+"en"
+]
